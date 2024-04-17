@@ -58,8 +58,8 @@ Time series Analysis and Data visualization tools to visualize trends and get ac
 
 
 ### Recommendations
-Comprehensive Cadiovascular diseases prevention programs should be implemented and ensure that there is access to cadiovascular heathcare services.
-Develop health promotion campaingns and educational intiatives to raise awareness about common health risks,preventive measures and available healthcare services within the ward.
-Expand access to women's health services, including preventive care, reproductive healthcare, and screenings for cancers.Ensure that healthcare providers are trained to address women's unique health concerns and provide competent care.
-The need for specialized healthcare services for the elderly population is compulsory and caregiver support is needed too for the well-being of the Elderly.
+1. Comprehensive Cadiovascular diseases prevention programs should be implemented and ensure that there is access to cadiovascular heathcare services.
+2. Develop health promotion campaingns and educational intiatives to raise awareness about common health risks,preventive measures and healthcare services should be available within the ward.
+3. Expand access to women's health services, including preventive care, reproductive healthcare, and screenings for cancers.Ensure that healthcare providers are trained to address women's unique health concerns and provide competent care.
+4. The need for specialized healthcare services for the elderly population is compulsory and caregiver support is needed too for the well-being of the Elderly.
 
