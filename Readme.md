@@ -47,16 +47,19 @@ My Analysis will involve Demographic Analysis which i will use to compare death 
 Time series Analysis and Data visualization tools to visualize trends and get actionable insights.
 
 
-### Conclusion
-
-In conclusion, the analysis of Wandsworth death report has provided valuable insights into occurence of death pattern. Key findings from the analysis include:
-
-1. January saw the highest number of deaths with a total of 182, indicating a seasonal variation in death rate.
-2. The leading underlying cause of death totaling 104 is chronic ischaemic heart disease, highlighting the importance of cardiovascular health intervention.
-3. Ward E05000622 has the highest death rate totaling 44, which points out the need for public health efforts.
-4. The female population has the highest death count totaling 50.73%, emphasizing the importance of gender-specific health initiatives.
-5. The Age band with the highest number of death is 90+ totaling 285, suggesting the need for specialized healthcare services for the elderly population.
+### Key Findings
 
 
-These key findings provide valuable insights for healthcare providers and public health professionals to develop targeted interventions aimed at reducing death rate and improving overall population health outcomes.
+1. January saw the highest number of deaths with a total of 182.
+2. The leading underlying cause of death totaling 104 is chronic ischaemic heart disease.
+3. Ward E05000622 has the highest death rate totaling 44.
+4. The female population has the highest death count totaling 50.73%.
+5. The Age band with the highest number of death is 90+ totaling 285.
+
+
+### Recommendations
+Comprehensive Cadiovascular diseases prevention programs should be implemented and ensure that there is access to cadiovascular heathcare services.
+Develop health promotion campaingns and educational intiatives to raise awareness about common health risks,preventive measures and available healthcare services within the ward.
+Expand access to women's health services, including preventive care, reproductive healthcare, and screenings for cancers.Ensure that healthcare providers are trained to address women's unique health concerns and provide competent care.
+The need for specialized healthcare services for the elderly population is compulsory and caregiver support is needed too for the well-being of the Elderly.
 
